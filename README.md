@@ -1,0 +1,3 @@
+# Smart-stick-for-blind-rpi-
+
+Introducing the Smart Stick for the Blind, a groundbreaking device that leverages sonar sensors and Raspberry Pi technology. This innovative stick detects obstacles in real-time, providing immediate audio or haptic feedback to visually impaired individuals. Its ergonomic design ensures comfortable handling, while the integration of sonar sensors enables accurate obstacle detection. Powered by Raspberry Pi, the Smart Stick combines portability with advanced computing capabilities. With this smart and user-friendly device, blind individuals gain newfound independence, confidently navigating their surroundings and embracing a greater sense of freedom.
